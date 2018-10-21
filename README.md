@@ -28,7 +28,6 @@ Checks the Payroll mailbox for mailbox audit log entries from the last 48 hours.
 Checks the Payroll mailbox for mailbox audit log entries from the last 48 hours and sends the report email with the CSV file attached.
 
 ## Credits
-
 Written by: Paul Cunningham
 
 Find me on:
@@ -38,8 +37,4 @@ Find me on:
 * LinkedIn:	http://au.linkedin.com/in/cunninghamp/
 * Github:	https://github.com/cunninghamp
 
-For more Exchange Server tips, tricks and news
-check out Exchange Server Pro.
-
-* Website:	http://exchangeserverpro.com
-* Twitter:	http://twitter.com/exchservpro
+Check out my [books](https://paulcunningham.me/books/) and [courses](https://paulcunningham.me/training/) to learn more about Office 365 and Exchange Server.
